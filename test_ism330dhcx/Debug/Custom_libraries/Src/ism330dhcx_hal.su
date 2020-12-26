@@ -1,0 +1,5 @@
+ism330dhcx_hal.c:24:9:HAL_ISM330DHCX_Write	40	static
+ism330dhcx_hal.c:37:9:HAL_ISM330DHCX_Read	40	static
+ism330dhcx_hal.c:47:6:HAL_ISM330DHCX_Init	8	static
+ism330dhcx_hal.c:85:6:HAL_ISM330DHCX_getConf	32	static
+ism330dhcx_hal.c:107:6:HAL_ISM330DHCX_Poll	24	static
